@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A-TI23/A-TI23/main/logo_usu.png" width="200" title="Logo KOM A">
-</p>
-
 <h1 align="center">KOM A D-III Teknik Informatika USU</h1>
 
 <p align="center">
