@@ -12,7 +12,7 @@
 
 ### 🌱 Tentang KOM A
 
-KOM A merupakan kelompok studi mahasiswa D-III Teknik Informatika Universitas Sumatera Utara yang didedikasikan untuk memperkuat kemampuan akademik dan praktik mahasiswa dalam bidang teknologi informasi. Kami berfokus pada pembelajaran kolaboratif, berbagi pengetahuan, dan pengembangan proyek nyata yang inovatif.
+KOM A'23 merupakan kelompok studi mahasiswa D-III Teknik Informatika Universitas Sumatera Utara yang didedikasikan untuk memperkuat kemampuan akademik dan praktik mahasiswa dalam bidang teknologi informasi. Kami berfokus pada pembelajaran kolaboratif, berbagi pengetahuan, dan pengembangan proyek nyata yang inovatif.
 
 ### 🎯 Visi
 
@@ -32,20 +32,9 @@ Menjadi komunitas mahasiswa yang unggul dalam inovasi dan kolaborasi di bidang t
 - **Proyek Kolaboratif:** Pengembangan proyek dalam tim untuk menyelesaikan masalah nyata menggunakan teknologi.
 - **Studi Kasus:** Diskusi bulanan mengenai studi kasus terkini dalam dunia teknologi informasi.
 
-### 🤝 Kerjasama
-
-KOM A berkolaborasi dengan berbagai perusahaan teknologi, komunitas TI, dan institusi pendidikan untuk mendapatkan akses ke sumber daya, mentor, dan peluang magang yang berharga bagi anggotanya.
-
-### 📬 Kontak
-
-Ingin bergabung atau berkolaborasi dengan KOM A? Kami terbuka untuk mahasiswa, alumni, dan profesional industri. Hubungi kami melalui:
-
-- **Email:** [komA_informatika@usu.ac.id](mailto:komA_informatika@usu.ac.id)
-- **Telepon:** +62 812-xxxx-xxxx
-
 ---
 
 <p align="center">
   <strong>Ikuti Kami di Media Sosial</strong><br>
-  <a href="URL_FACEBOOK_KOM_A">Facebook</a> | <a href="URL_TWITTER_KOM_A">Twitter</a> | <a href="URL_INSTAGRAM_KOM_A">Instagram</a>
+  <a href="https://www.instagram.com/teknikinformatika_23a/">Instagram</a>
 </p>
